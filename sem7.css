@@ -1,0 +1,19 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(140, 103, 241);
+}
+
+button {
+    padding: 40px 80px; 
+    font-size: 2em; 
+    color: rgb(53, 15, 158);
+}
+
+#contenedor {
+    padding: 5px;
+    background-color: green;
+}
